@@ -42,7 +42,7 @@ https://github.com/coreybutler/nvm-windows/releases
 
 显示出 nvm 版本信息说明安装成功，如下图所示：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/GxHp5MAY3ZBdRlLibsThMt55IwesWeZibJSMJw6N5brgZPm1r5opUAksypsorCJ6EzNk9fyoQoeBhJ8EpTgVyicSA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/GxHp5MAY3ZBdRlLibsThMt55IwesWeZibJSMJw6N5brgZPm1r5opUAksypsorCJ6EzNk9fyoQoeBhJ8EpTgVyicSA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 
 
 
@@ -50,9 +50,7 @@ https://github.com/coreybutler/nvm-windows/releases
 
 查看已经安装的 nodejs 版本列表，如下图所示：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/GxHp5MAY3ZBdRlLibsThMt55IwesWeZibJ6Uq5b7cA2O1xegRpI2EeLKyRA2VLbzcpz6AlmWEy6xmy7yA5GUwKug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-
+![图片](https://mmbiz.qpic.cn/mmbiz_png/GxHp5MAY3ZBdRlLibsThMt55IwesWeZibJ6Uq5b7cA2O1xegRpI2EeLKyRA2VLbzcpz6AlmWEy6xmy7yA5GUwKug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 
 因为是新安装，所以没有任何版本。
 
